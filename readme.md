@@ -1,3 +1,15 @@
+Yenilənmiş tapşırıq: 
+-- https://jsonplaceholder.typicode.com/users Api yaratmalı və buradan gələn datanı /users adlı yeni bir route yaradaraq göstərməlisiniz.
+-- Hər hansı bir user-ə clicklədikdə, /users/:id adlı yeni yaradacağınız route-a yönləndirməlisiniz.
+-- Və bu Route-da https://jsonplaceholder.typicode.com/users/:id adlı yeni yaradacağınız api requestindən gələn datanı göstərməlisiniz.
+Keçən dərsə aid tapşırıqdan istifadə edin!
+
+
+
+
+
+Keçən dərsə aid tapşırıqdan:
+
 1. **Layihənin Qurulması:**
    - Yeni bir React layihəsi yaradın.
    - Aşağıdakı library-ləri quraşdırın:
